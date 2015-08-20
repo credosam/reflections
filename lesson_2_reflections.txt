@@ -16,3 +16,6 @@ It helps us keep track of commits on a particular branch and we can easily under
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We have the changes of both the branches in one file. It makes things easier.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Please ask some offstream q's :P
+
