@@ -3,3 +3,6 @@ It becomes a git directory. So that we can make a commit.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an intermediate area so that all the files that have to committed can be done in 1 commit itself.
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can check the staging area evry time by git status and once a logical change has been made we can commit that change.
