@@ -13,3 +13,6 @@ When we are not sure of the functionality that we want to introduce and we want 
 How do the diagrams help you visualize the branch structure?
 It helps us keep track of commits on a particular branch and we can easily understand what actions have been made.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We have the changes of both the branches in one file. It makes things easier.
+
