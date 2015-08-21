@@ -15,4 +15,7 @@ We can see the changes that have been done on the remote and locally, compare th
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By working together and viewing each other changes everytime and making the acceptable changes. Collaborating without Github, i cannot even think of it.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we want to try out something new of which we are not very sure of or just want to start a different thing.
+
 
