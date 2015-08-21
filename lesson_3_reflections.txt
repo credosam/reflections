@@ -12,4 +12,7 @@ branch - creating another branch
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can see the changes that have been done on the remote and locally, compare them and take proper actions to resolve a conflict if there is one.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By working together and viewing each other changes everytime and making the acceptable changes. Collaborating without Github, i cannot even think of it.
+
 
