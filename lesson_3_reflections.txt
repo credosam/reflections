@@ -8,3 +8,8 @@ Describe the differences between forks, clones, and branches. When would you use
 fork - cloning a repo on github
 clone - cloning a repo on local
 branch - creating another branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can see the changes that have been done on the remote and locally, compare them and take proper actions to resolve a conflict if there is one.
+
+
